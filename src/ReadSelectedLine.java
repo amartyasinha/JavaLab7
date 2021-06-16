@@ -12,7 +12,7 @@ public class ReadSelectedLine {
 
             while (sc.hasNextLine()) {
                 String line = sc.nextLine();
-                if (line.startsWith("//", 0))
+                if (line.startsWith("//"))
                     System.out.println(line);
                 fin.close();
             }
