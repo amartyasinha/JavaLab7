@@ -4,4 +4,4 @@ In this project, I have created the codes of Java Lab 7. You can take help if yo
 
 ## Lab Excercise No. 7
 
-Write a program to read a file and display only those lines that have the first two characters as '//' (Use try with resources).
+- Write a program to read a file and display only those lines that have the first two characters as '//' (Use try with resources).
