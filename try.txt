@@ -1,0 +1,13 @@
+#inclue <iostream>
+using namespace std;
+
+int main() {
+
+}
+//Just checking whether my File handling program is working in java or not
+    cout << "Hello World!\n";
+//again testing
+//last line with double backslash
+
+    return 0;
+}
