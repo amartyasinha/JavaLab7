@@ -20,6 +20,8 @@ public class ReadSelectedLine {
             System.out.println("File not found\n" + e);
         } catch (IOException e) {
             System.out.println("Not able to open/close file\n" + e);
+        } finally {
+            System.out.println("\nThanks for using this program!");
         }
     }
 }
